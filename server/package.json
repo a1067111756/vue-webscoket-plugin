@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chengyu",
+  "license": "MIT",
+  "dependencies": {
+    "nodejs-websocket": "^1.7.2",
+    "vue-websocket": "^0.2.3"
+  }
+}
